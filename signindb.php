@@ -1,7 +1,6 @@
 <?php
 session_start();
 include 'dbh.php';
-// Databse File//
 
 
 $uid = $_POST['uid'];
